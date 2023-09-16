@@ -8,7 +8,7 @@
 Pineapple ONE is a 32 bit RISC-V CPU made only out of basic logic components and 
 memories - no FPGAs or any microcontrollers used. 
 
-Nowadays more and more people are building homemade computers using just basic logic componens. For example:
+Nowadays more and more people are building homemade computers using just basic logic components. For example:
 
 - [Ben Eater's CPU](https://eater.net/8bit)
 - [James Sharman's pipelined CPU](https://www.youtube.com/watch?v=3iHag4k4yEg&list=PLFhc0MFC8MiCDOh3cGFji3qQfXziB9yOw)
@@ -24,7 +24,7 @@ I wanted to make something open source, and push the boundries of homemade CPUs 
 
 So I have spent last two years designing and building a 32 bit CPU RISC-V CPU as well, and I am proud to announce that I have built one - sort of. It runs on 500 kHz, it has 4 I/O ports, 200x150 px VGA output and you can even connect a PS/2 keyboard using one of the I/O ports. I wrote some example programs - demo video [here](https://youtu.be/NUAVKNVrPh0) and it works fine, but more complex programs are not 100% reliable - now.
 
-My goal is to improve upon what I have already done and make it accesible for everyone interested in builing their own "Pineapple ONE" (* name could be changed due to legal reasons).
+My goal is to improve upon what I have already done and make it accesible for everyone interested in building their own "Pineapple ONE" (* name could be changed due to legal reasons).
 
 We welcome anybody who wants to contribute in any way - please drop me an email (filip.szkandera@gmail.com) or message me on twitter (@ten_filip).
 
